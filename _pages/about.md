@@ -2,25 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Researcher. Law student. Lifelong learner.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: dominic_deuber.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: #>
+    #<p>555 your office number</p>
+    #<p>123 your address street</p>
+    #<p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false # includes a list of news items
+latest_posts: false # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an IT security researcher focusing on anonymity and privacy (including cryptocurrencies). In particular, I am interested in topics at the interface of technology and law, which is why I started to study law in 2018 alongside my research.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In 2023, I received my Ph.D. (Dr.-Ing.) at the [Chair of Applied Cryptography](https://www.chaac.tf.fau.eu/), [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://www.fau.de/), under the supervision of [Dominique Schröder](https://www.dominique-schroeder.de/).
+During my Ph.D., I was fortunate to be part of the [Research Training Group 2475: Cybercrime and Forensic Computing](https://www.cybercrime.fau.de/research-training-group-2475-cybercrime-and-forensic-computing/) by the Deutsche Forschungsgemeinschaft (DFG).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In 2017, I received my M.Sc. in computer science from [Saarland University](https://www.uni-saarland.de/en/home.html), where I also graduated in 2015 with a B.Sc. in bioinformatics (majoring in computational molecular biology).
+During my studies, I worked as a student trainee in software development and as a research assistant at the [Helmholtz Center for Information Security (CISPA)](https://cispa.de/en).
