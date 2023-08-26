@@ -148,6 +148,9 @@
           {%- if entry.url %}
             <a href="{{ entry.url }}" class="btn btn-sm z-depth-0" role="button">URL</a>
           {%- endif %}
+            {%- if entry.talk %}
+            <a href="{{ entry.talk }}" class="btn btn-sm z-depth-0" role="button">Talk</a>
+            {%- endif %}
           {%- if entry.pdf %}
             {% if entry.pdf contains '://' -%}
             <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
