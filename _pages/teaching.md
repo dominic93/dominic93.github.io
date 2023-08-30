@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: teaching
 permalink: /teaching/
 title: teaching
 description: Overview of my teaching activities as a teaching assistant and lecturer.
