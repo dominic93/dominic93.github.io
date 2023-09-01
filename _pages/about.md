@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an IT security researcher focusing on anonymity and privacy (including cryptocurrencies). In particular, I am interested in topics at the interface of technology and law, which is why I started to study law in 2018 alongside my research.
+I am an IT security researcher focusing on anonymity, privacy and cryptocurrencies. In particular, I am interested in topics at the interface of technology and law, which is why I started to study law in 2018 alongside my research.
 
 In 2023, I received my Ph.D. (Dr.-Ing.) at the [Chair of Applied Cryptography](https://www.chaac.tf.fau.eu/), [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://www.fau.de/), under the supervision of [Dominique Schröder](https://www.dominique-schroeder.de/).
 During my Ph.D., I was fortunate to be part of the [Research Training Group 2475: Cybercrime and Forensic Computing](https://www.cybercrime.fau.de/research-training-group-2475-cybercrime-and-forensic-computing/) by the Deutsche Forschungsgemeinschaft (DFG).
