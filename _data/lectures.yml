@@ -3,7 +3,7 @@
     - name: Description
       value: This introductory lecture teaches basic algorithms and data structures, including runtime analysis. The class covers sorting and graph algorithms, as well as fundamental data structures such as heaps and trees. Pracitcally relevant algorithms, such as the PageRank algorithm, are also covered to link theory with practice.
     - name: Type
-      value: basic undergraduate lecture
+      value: undergraduate lecture
     - name: Role
       value: lead teaching assistant
     - name: Time
@@ -25,7 +25,7 @@
     - name: Description
       value: This advanced seminar probes the multifaceted nature of blockchains, in particular at the interface between IT security and law. Blockchains allow the embedding of illicit content, such as child abuse material, which &#8212; due to their immutability &#8212; causes legal issues. The seminar discusses the technical possibilities for embedding and, in cooperation with legal science, also the legal consequences of undesirable content. Through this interplay of computer science and law, the learning objective is to be able to evaluate approaches to removing illegal content from a technical and legal perspective.
     - name: Type
-      value: advanced specialised seminar
+      value: advanced seminar
     - name: Role
       value: lecturer
     - name: Time
