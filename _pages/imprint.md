@@ -3,6 +3,7 @@ layout: page
 permalink: /imprint/
 title: Impressum
 nav: false
+noindex: true
 ---
 
 ## Angaben gemäß § 5 TMG
