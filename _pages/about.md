@@ -7,6 +7,7 @@ subtitle: Researcher. Law student. Lifelong learner.
 profile:
   align: right
   image: dominic_deuber.jpg
+  image_alt: Dominic Deuber
   image_circular: false # crops the image to make it circular
   address: #>
     #<p>555 your office number</p>
