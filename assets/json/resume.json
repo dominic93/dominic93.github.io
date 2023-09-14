@@ -1,33 +1,4 @@
 {
-  "work": [
-    {
-      "name": "Friedrich-Alexander-Universität Erlangen-Nürnberg, Nürnberg, Germany",
-      "position": "Researcher",
-      "url": "https://fau.eu",
-      "startDate": "2017",
-      "endDate": "dato",
-      "summary": "Research interests: anonymity, privacy, cryptocurrencies",
-      "highlights": []
-    },
-    {
-      "name": "Helmholtz Center for Information Security (CISPA), Saarbrücken, Germany",
-      "position": "Research assistant",
-      "url": "https://cispa.de/en",
-      "startDate": "2016",
-      "endDate": "2017",
-      "summary": "Application development in the areas of personalized medicine and money transfer",
-      "highlights": []
-    },
-    {
-      "name": "consistec Engineering & Consulting GmbH, Saarbrücken, Germany",
-      "position": "Student trainee",
-      "url": "https://www.consistec.de/en/",
-      "startDate": "2014",
-      "endDate": "2016",
-      "summary": "Development of high-performance packet filters for network analysis products",
-      "highlights": []
-    }
-  ],
   "education": [
     {
       "institution": "Friedrich-Alexander-Universität Erlangen-Nürnberg, Nürnberg, Germany",
@@ -61,6 +32,35 @@
       "score": "",
       "courses": [
       ]
+    }
+  ],
+  "employment": [
+    {
+      "name": "Friedrich-Alexander-Universität Erlangen-Nürnberg, Nürnberg, Germany",
+      "position": "Researcher",
+      "url": "https://fau.eu",
+      "startDate": "2017",
+      "endDate": "dato",
+      "summary": "Research interests: anonymity, privacy, cryptocurrencies",
+      "highlights": []
+    },
+    {
+      "name": "Helmholtz Center for Information Security (CISPA), Saarbrücken, Germany",
+      "position": "Research assistant",
+      "url": "https://cispa.de/en",
+      "startDate": "2016",
+      "endDate": "2017",
+      "summary": "Application development in the areas of personalized medicine and money transfer",
+      "highlights": []
+    },
+    {
+      "name": "consistec Engineering & Consulting GmbH, Saarbrücken, Germany",
+      "position": "Student trainee",
+      "url": "https://www.consistec.de/en/",
+      "startDate": "2014",
+      "endDate": "2016",
+      "summary": "Development of high-performance packet filters for network analysis products",
+      "highlights": []
     }
   ],
   "awards": [
