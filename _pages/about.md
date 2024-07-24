@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Researcher. Law student. Explorer.
+subtitle: IT Security Researcher | Law Graduate | Lifelong Learner
 
 profile:
   align: right
