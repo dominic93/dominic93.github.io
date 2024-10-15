@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: IT Security Researcher | Law Graduate | Lifelong Learner
+subtitle: IT Security Expert | Law Graduate | Lifelong Learner
 
 profile:
   align: right
@@ -20,8 +20,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an IT security researcher focusing on anonymity, privacy and cryptocurrencies. In particular, I am interested in topics at the interface of technology and law, which is why I started to study law in 2018 alongside my research.
+I am an IT security expert at [Deutsche Akkreditierungsstelle GmbH (DAkkS)](https://www.dakks.de/).
 
+Before I joined Dakks, I completed a law degree (Dipl.-Jur. Univ.) in 2024.
 In 2023, I received my Ph.D. (Dr.-Ing.) at the [Chair of Applied Cryptography](https://www.chaac.tf.fau.eu/), [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://www.fau.de/), under the supervision of [Dominique Schröder](https://www.dominique-schroeder.de/).
 During my Ph.D., I was fortunate to be part of the [Research Training Group 2475: Cybercrime and Forensic Computing](https://www.cybercrime.fau.de/research-training-group-2475-cybercrime-and-forensic-computing/) by the Deutsche Forschungsgemeinschaft (DFG).
 Besides, I am grateful that I had the opportunity to join and collaborate with [Nicolas Christin](https://www.andrew.cmu.edu/user/nicolasc/) and his group at [Carnegie Mellon University (CMU)](https://www.cmu.edu/).
