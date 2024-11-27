@@ -47,11 +47,20 @@
   ],
   "employment": [
     {
+      "name": "Deutsche Akkreditierungsstelle GmbH, Berlin, Germany",
+      "position": "Expert for Emerging Technologies",
+      "url": "https://dakks.de",
+      "startDate": "2024",
+      "endDate": "dato",
+      "summary": "",
+      "highlights": []
+    },
+    {
       "name": "Friedrich-Alexander-Universität Erlangen-Nürnberg, Nürnberg, Germany",
       "position": "Researcher",
       "url": "https://fau.eu",
       "startDate": "2017",
-      "endDate": "dato",
+      "endDate": "2024",
       "summary": "Research interests: anonymity, privacy, cryptocurrencies",
       "highlights": []
     },
