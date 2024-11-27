@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: IT Security Expert | Law Graduate | Lifelong Learner
+subtitle: IT Security Expert | Law Graduate | Avid Learner
 
 profile:
   align: right
