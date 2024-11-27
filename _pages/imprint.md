@@ -6,7 +6,7 @@ nav: false
 noindex: true
 ---
 
-## Angaben gemäß § 5 TMG
+## Angaben gemäß § 5 DDG
 
 Dominic Deuber\
 c/o Lehrstuhl für Angewandte Kryptographie\
