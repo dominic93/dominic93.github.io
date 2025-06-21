@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an IT security expert at [Deutsche Akkreditierungsstelle GmbH (DAkkS)](https://www.dakks.de/).
+I am an IT security expert at the [German Accreditation Body (DAkkS)](https://www.dakks.de/en).
 
 Before I joined DAkkS, I completed a law degree (Dipl.-Jur. Univ.) in 2024.
 In 2023, I received my Ph.D. (Dr.-Ing.) at the [Chair of Applied Cryptography](https://www.chaac.tf.fau.eu/), [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://www.fau.de/), under the supervision of [Dominique Schröder](https://www.dominique-schroeder.de/).
