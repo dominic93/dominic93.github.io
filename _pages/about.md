@@ -28,4 +28,4 @@ During my Ph.D., I was fortunate to be part of the [Research Training Group 2475
 Besides, I am grateful that I had the opportunity to join and collaborate with [Nicolas Christin](https://www.andrew.cmu.edu/user/nicolasc/) and his group at [Carnegie Mellon University (CMU)](https://www.cmu.edu/).
 
 In 2017, I received my M.Sc. in computer science from [Saarland University](https://www.uni-saarland.de/en/home.html), where I also graduated in 2015 with a B.Sc. in bioinformatics (majoring in computational molecular biology).
-During my studies, I worked as a student trainee in software development and as a research assistant at the [Helmholtz Center for Information Security (CISPA)](https://cispa.de/en).
+During my studies, I worked as a student trainee in software development at [consistec](https://consistec.de/en) and as a research assistant at the [Helmholtz Center for Information Security (CISPA)](https://cispa.de/en).
