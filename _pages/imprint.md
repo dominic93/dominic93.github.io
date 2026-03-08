@@ -14,7 +14,7 @@ Fürther Straße 246c\
 90429 Nürnberg
 
 Telefon: 0911 5302-96654\
-Email: [dominic.deuber (at) fau.de](mailto:{{ site.email | encode_email }})
+Email: [contact (at) dominic-deuber (punkt) eu](mailto:{{ site.email | encode_email }})
 
 ## Datenschutz
 
