@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: IT Security and Legal Specialist
+subtitle: IT Security Specialist | Legal Specialist
 
 profile:
   align: right
